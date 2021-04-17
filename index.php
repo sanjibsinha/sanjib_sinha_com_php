@@ -35,8 +35,17 @@
 		   <a href="how-do-you-clean-url">
 		How do you make clean URL</a>.
 		</p>
-		
-		<h3>Flutter TUtorials</h3>
+		<p>
+		   <a href="how-do-i-install-php8">
+		How do I Install PHP 8?</a>.
+		</p>
+		<p>
+		   <a href="difference-between-get-and-post-in-php">
+		Difference between GET and POST in PHP 8</a>.
+		</p>
+
+
+<h3>Flutter TUtorials</h3>
 		<p>
 		   <a href="how-do-i-add-a-list-in-flutter">
 		   How do I add a list in Flutter </a>.
