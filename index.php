@@ -55,6 +55,11 @@
 		   How Do I display an image in Flutter?
 		   </a>.
 		</p>
+		<p>
+		   <a href="devtools-in-flutter">
+		   How Do you use DevTools in Flutter?
+		   </a>.
+		</p>
 	</div>
 
 	<p class="footer">Page rendered in <strong>0.0004</strong> seconds. 
