@@ -2,21 +2,21 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to PHP 8 tutorial</title>
+	<title>Welcome to PHP 8 and Flutter tutorial</title>
 
 	<link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
 
 <div id="container">
-	<h1>Welcome to PHP 8 Tutorial!</h1>
+	<h1>Welcome to PHP 8 and Flutter tutorial</h1>
 
 	<div id="body">
-		<p>A simple PHP 8 tutorial</p>
+		<p>Simple PHP 8 and Flutter tutorials</p>
 
-		<p>A step by step guide for beginners</p>
+		<p>A step by step guide to PHP 8 and Flutter for beginners</p>
 		
-		<p>Learn how to code better.</p>
+		<p>Learn how to code better. Make your web and mobile faster.</p>
         
 		<pre>
         <code>
@@ -51,7 +51,7 @@
 		   </a>.
 		</p>
 		<p>
-		   <a href="how-do-you-use-stateful-widget-flutter">
+		   <a href="how-do-i-display-an-image-in-flutter">
 		   How Do I display an image in Flutter?
 		   </a>.
 		</p>
