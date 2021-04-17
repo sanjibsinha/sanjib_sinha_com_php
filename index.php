@@ -26,7 +26,7 @@
         ?&gt;
         </code>
         </pre>
-
+<h3>PHP 8 TUtorials</h3>
 		<p>
 		   <a href="what-are-different-type-of-php-variables">
 		What are different type of PHP variables</a>.
@@ -34,6 +34,26 @@
 		<p>
 		   <a href="how-do-you-clean-url">
 		How do you make clean URL</a>.
+		</p>
+		
+		<h3>Flutter TUtorials</h3>
+		<p>
+		   <a href="how-do-i-add-a-list-in-flutter">
+		   How do I add a list in Flutter </a>.
+		</p>
+		<p>
+		   <a href="how-do-you-use-stateful-widget-flutter">
+		   How do you use stateful widget flutter? </a>.
+		</p>
+		<p>
+		   <a href="types-of-widgets-in-flutter">
+		   Types of Widgets in Flutter
+		   </a>.
+		</p>
+		<p>
+		   <a href="how-do-you-use-stateful-widget-flutter">
+		   How Do I display an image in Flutter?
+		   </a>.
 		</p>
 	</div>
 
