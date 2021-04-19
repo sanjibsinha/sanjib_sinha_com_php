@@ -74,6 +74,12 @@
 		   How Do I use ListView in Flutter?
 		   </a>.
 		</p>
+		
+		<p>
+		   <a href="adding-items-to-list-in-flutter">
+		   How to add and delete items in Flutter?
+		   </a>.
+		</p>
 	</div>
 
 	<p class="footer">Page rendered in <strong>0.0004</strong> seconds. 
